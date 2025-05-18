@@ -3,15 +3,15 @@
   "logo": 
   "description": "Telegram söz tap oyun",
   "env": {
-    "API_ID": 16421462 {
+    "API_ID": {
       "description": "@otomytelegrambot dan api hash api id alınız.",
-      "value": "254564564673"
+      "value": "16421462"
     },
-    "API_HASH":cc464d82989c88a392f59133591895a2 {
+    "API_HASH": {
       "description": "@otomytelegrambot dan api hash api id alınız.",
       "value": "cc464d82989c88a392f59133591895a2"
     },
-    "TOKEN":5606110930:AAHB09z9X5Ubf245HVIck7ZOb-fus6fTZ2U {
+    "TOKEN": {
       "description": "@botfather den aldığınız tokeni giriniz",
       "value": "7882850656:AAG9DWcXoAkgSdts4qtguYZRTPZwREG_LXA"
     },
